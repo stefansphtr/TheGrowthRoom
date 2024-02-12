@@ -55,8 +55,9 @@ In this section, I will be documenting my learning journey at Bangkit Academy.
 
 ###### In Progress
 
-1. **Belajar Dasar Git dengan GitHub** (38% completed)
+1. **Belajar Dasar Git dengan GitHub** (48% completed)
     - Basics of Git and GitHub
     - Git workflow
     - Git commands
     - Case study: Using Git and GitHub to manage a project
+    - Case study: using Git and GitHub to create a new release version of repository
