@@ -8,13 +8,10 @@ Welcome to my repository for my learning journey of Data Science at Codecademy a
   - [Data Science Machine Learning Specialization Path](#data-science-machine-learning-specialization-path)
     - [Learning Timeline](#learning-timeline)
       - [12 February 2024](#12-february-2024)
-        - [Design Database with PostgreSQL (Skill Path)](#design-database-with-postgresql-skill-path)
+        - [Design Database with PostgreSQL (Skill Path) at Codecademy](#design-database-with-postgresql-skill-path-at-codecademy)
           - [Completed](#completed)
           - [In Progress](#in-progress)
-  - [My Machine Learning Journey at Bangkit Academy](#my-machine-learning-journey-at-bangkit-academy)
-    - [Learning Timeline](#learning-timeline-1)
-      - [12 February 2024](#12-february-2024-1)
-        - [Dicoding Courses](#dicoding-courses)
+        - [My Machine Learning Journey at Bangkit Academy](#my-machine-learning-journey-at-bangkit-academy)
           - [Completed](#completed-1)
           - [In Progress](#in-progress-1)
 
@@ -26,7 +23,7 @@ I am currently learning Data Science and Machine Learning at Codecademy. I am fo
 
 #### 12 February 2024
 
-##### Design Database with PostgreSQL (Skill Path)
+##### Design Database with PostgreSQL (Skill Path) at Codecademy
 
 ###### Completed
 - Import and review the dataset Off-Platform Project : The Best of Baseball Awards to my local PostgreSQL database
@@ -35,15 +32,9 @@ I am currently learning Data Science and Machine Learning at Codecademy. I am fo
 ###### In Progress
 - I should address the problem of the dataset to run the given query sql file, so the dataset can be imported to the database.
    
-## My Machine Learning Journey at Bangkit Academy
+##### My Machine Learning Journey at Bangkit Academy
 
 In this section, I will be documenting my learning journey at Bangkit Academy.
-
-### Learning Timeline
-
-#### 12 February 2024
-
-##### Dicoding Courses
 
 ###### Completed
 
