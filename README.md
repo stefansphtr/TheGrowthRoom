@@ -2,8 +2,13 @@
 
 Welcome to my repository for my learning journey of Data Science at Codecademy and Machine Learning at Bangkit Academy. This README will serve as a log of my progress and achievements.
 
+## Quotes of the Day
+
+> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
 ## Table of Contents
 - [Brain Gains Gym](#brain-gains-gym)
+  - [Quotes of the Day](#quotes-of-the-day)
   - [Table of Contents](#table-of-contents)
   - [Data Science Machine Learning Specialization Path](#data-science-machine-learning-specialization-path)
     - [Learning Timeline](#learning-timeline)
@@ -53,7 +58,7 @@ In this section, I will be documenting my learning journey at Bangkit Academy.
 
 ###### In Progress
 
-1. **Belajar Dasar Git dengan GitHub** (48% completed)
+1. **Belajar Dasar Git dengan GitHub** (64% completed)
     - Basics of Git and GitHub
     - Git workflow
     - Git commands
@@ -73,3 +78,8 @@ In this section, I will be documenting my learning journey at Bangkit Academy.
 ###### Completed
 
 ###### In Progress
+1. **Belajar Dasar Git dengan GitHub** (64% completed)
+   - Git branches
+   - Case study: Using GitHub UI to create a new branch
+   - Case study: Using GitHub UI to open a pull request
+
