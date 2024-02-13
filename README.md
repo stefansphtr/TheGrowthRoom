@@ -73,3 +73,7 @@ In this section, I will be documenting my learning journey at Bangkit Academy.
 ###### Completed
 
 ###### In Progress
+1. **Belajar Dasar Git dengan GitHub** (64% completed)
+   - Git branches
+   - Case study: Using GitHub UI to create a new branch
+   - Case study: Using GitHub UI to open a pull request
