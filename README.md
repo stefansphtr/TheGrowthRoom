@@ -14,6 +14,13 @@ Welcome to my repository for my learning journey of Data Science at Codecademy a
         - [My Machine Learning Journey at Bangkit Academy](#my-machine-learning-journey-at-bangkit-academy)
           - [Completed](#completed-1)
           - [In Progress](#in-progress-1)
+      - [13 February 2024](#13-february-2024)
+        - [Design Database with PostgreSQL (Skill Path) at Codecademy](#design-database-with-postgresql-skill-path-at-codecademy-1)
+          - [Completed](#completed-2)
+          - [In Progress](#in-progress-2)
+        - [My Machine Learning Journey at Bangkit Academy](#my-machine-learning-journey-at-bangkit-academy-1)
+          - [Completed](#completed-3)
+          - [In Progress](#in-progress-3)
 
 ## Data Science Machine Learning Specialization Path
 
@@ -52,3 +59,17 @@ In this section, I will be documenting my learning journey at Bangkit Academy.
     - Git commands
     - Case study: Using Git and GitHub to manage a project
     - Case study: using Git and GitHub to create a new release version of repository
+
+#### 13 February 2024
+
+##### Design Database with PostgreSQL (Skill Path) at Codecademy
+
+###### Completed
+
+###### In Progress
+
+##### My Machine Learning Journey at Bangkit Academy
+
+###### Completed
+
+###### In Progress
