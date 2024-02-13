@@ -53,7 +53,7 @@ In this section, I will be documenting my learning journey at Bangkit Academy.
 
 ###### In Progress
 
-1. **Belajar Dasar Git dengan GitHub** (48% completed)
+1. **Belajar Dasar Git dengan GitHub** (64% completed)
     - Basics of Git and GitHub
     - Git workflow
     - Git commands
